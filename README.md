@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Jhonata Gutemberg
 
-<!--
-**jhonata-gutemberg/jhonata-gutemberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced backend engineer with 6+ years of experience, focused on scalable and resilient systems. I’ve led key initiatives to improve performance, reliability, and maintainability in high-throughput environments. Skilled in Java, Spring Boot, and distributed architectures, I’ve designed and implemented high throughput and resilient systems that significantly reduced failures and improved operational efficiency. Passionate about solving complex problems, continuously improving system design, and driving impact through my knowledge of architecture and thoughtful engineering.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java | Spring
+- Postgres | Redis
+- AWS | Kubernetes
+- RabbitMQ | Kafka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Projects
+- [System Design](https://github.com/gutemberg/system-design)
+- [Rate Limiter](https://github.com/gutemberg/rate-limiter)
+- [Microservices](https://github.com/gutemberg/micro-services)
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/jhonata-gutemberg-252455160/)
