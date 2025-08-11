@@ -4,9 +4,6 @@ I'm an experienced backend engineer with 6+ years of experience, focused on scal
 ## 🚀 Tech Stack
 Java | Spring | Postgres | Redis | AWS | Kubernetes | RabbitMQ | Kafka
 
-## ✨ Projects
-[System Design](https://github.com/jhonata-gutemberg/system-design) | [Rate Limiter](https://github.com/jhonata-gutemberg/rate-limiter) | [Microservices](https://github.com/jhonata-gutemberg/microservices)
-
 ## 📈 Career Timeline
 - 🍕 **iFood** — Backend Software Engineer *(2013–now)*
 - 🏦 **PagBank** — Backend Software Engineer *(2019–2013)*
