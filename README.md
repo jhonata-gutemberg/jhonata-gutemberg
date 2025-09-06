@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Jhonata Gutemberg
+![Jhonata Gutemberg](docs/assets/banner.png)
+## 💼 Professional summary
 I’m a Senior backend software engineer with 6+ years of experience, focused on scalable and resilient systems. I’ve led key initiatives to improve performance, reliability, and maintainability in high-throughput environments. Skilled in Javascript, Typescript, Nodejs and distributed architectures, I’ve designed and implemented high throughput and resilient systems that significantly reduced failures and improved operational efficiency. Passionate about solving complex problems, continuously improving system design, and driving impact through my knowledge of architecture and thoughtful engineering.
 
 ## 🚀 Tech Stack
